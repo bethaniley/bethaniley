@@ -1,13 +1,15 @@
 # 👋🏻 Hello! I'm Bethan.
 *Pronounced: Beth-Anne Eye-Lee.*
 
-I'm a PhD student in Psychology at Queen's University Belfast. My research focusses on developing a game-based training intervention which (hopefully!) changes negative attitudes towards gender equality initiatives. I'm using R, learning Python, and refreshing my webdev knowledge.
+I'm a PhD student in Psychology at Queen's University Belfast. My research is developing a game-based training intervention which (hopefully!) changes negative attitudes towards gender equality initiatives. 
+
+I'm using R, learning Python, and refreshing my webdev knowledge.
 
 ### 📊 Current projects
 
 - The currently unnamed game-based training intervention
-- A Shiny App for @forrtproject
-- Also do updates for the [FORRT website](https://forrt.org/)
+- A Shiny App for [FORRT](https://forrt.org/)
+- Updating FORRT's website
 
 All my projects are currently private.
 
