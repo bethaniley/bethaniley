@@ -1,17 +1,22 @@
 # 👋🏻 Hello! I'm Bethan.
 *Pronounced: Beth-Anne Eye-Lee.*
 
-I'm a PhD student in Psychology at Queen's University Belfast. My research is developing a game-based training intervention which (hopefully!) changes negative attitudes towards gender equality initiatives. 
+I'm a PhD student in Psychology at Queen's University Belfast. My research interests lie in the social psychology of (un)scientific beliefs and behaviours. That means questions like:
+- How do social identities affect what people believe about science?
+- Why do people reject science, and especially believe anti-scientific conspiracy theories?
+- How do social processes affect the ways scientists implement scientific methods?
 
-I'm using R, learning Python, and refreshing my webdev knowledge.
+My other research interests are in neurodiversity, how people think about non-human animals, and creating behaviour change to address big problems.
+
+When I'm not PhD-ing, I'm a Finance Manager at OLS!
 
 ### 📊 Current projects
 
-- The currently unnamed game-based training intervention
-- A Shiny App for [FORRT](https://forrt.org/)
-- Updating FORRT's website
+My repositories are centred around R and markdown documentation. This means:
 
-All my projects are currently private.
+- PhD analysis code.
+- Trialling using GitHub in projects which are not code-based, e.g. personal notes.
+- A few other secret projects!
 
 ### 🔗 Links
 
