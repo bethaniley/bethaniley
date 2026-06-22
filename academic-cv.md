@@ -168,25 +168,25 @@ Widening Participation Unit, Queen’s University Belfast (Belfast, UK). Sept. 2
 Framework for Open and Reproducible Research Training [FORRT] (remote). Aug. 2023 - Aug. 2024.
 
 ## Team Neurodiversity Co-Lead
-Framework for Open and Reproducible Research Training [FORRT] (remote). Feb. 2023 – Aug. 2023.
+Framework for Open and Reproducible Research Training [FORRT] (remote). Oct. 2022 – Aug. 2023.
 - Facilitated project management and documentation across several manuscripts, outreach initiatives, and resource development projects.
 - Maintained an asynchronous working environment which is inclusive for members of all backgrounds and neurotypes, and responds to feedback quickly and positively.
 - The team was awarded a [Society for the Improvement of Psychological Science Commendation](https://improvingpsych.org/2023/08/22/sips-2023-awards-announced/).
 
-**UKRN Local Network Co-Lead & ReproducibiliTea Co-Organiser**
+## UKRN Local Network Co-Lead & ReproducibiliTea Co-Organiser
 Queen’s University Belfast (Belfast, UK)
 2020 – 2025
 - Organised the university's ReproducibiliTea journal club, focused on open and reproducible research. Topics included statistical analysis, teaching open science, and diversity, equity and inclusion issues in open science.
 - ReproducibiliTea was runner-up for the Best Student-Led Initiative Award in the Queen's SU Awards.
 - Work covered in [a UKRN blog post](https://www.ukrn.org/2024/05/07/spotlight-on-open-research-at-queens-university-belfast/).
 
-**Co-Lead of Canterbury ReproducibiliTea Journal Club**
+## Co-Lead of Canterbury ReproducibiliTea Journal Club
 School of Psychology, University of Kent (Canterbury, UK)
 2019–2020
 - Organised and hosted weekly seminars focused on meta-science, and managed open materials via OSF.
 - [Acknowledged](https://twitter.com/improvingpsych/status/1237824960305008641) in the [Society for the Improvement of Psychological Science Commendation](https://improvingpsych.org/mission/awards/) awarded to the ReproducibiliTea project in January 2020.
 
-**Editor-In-Chief of the Student Journal & Postgraduate Officer**
+## Editor-In-Chief of the Student Journal & Postgraduate Officer
 Psychology Society, University of Kent (Canterbury, UK)
 2019–2020
 - Liaised with faculty to create comprehensive submission guidelines and peer review procedures which replicate academic journals. Provided editorial oversight to submissions and managed volunteer editors and peer reviewers.
